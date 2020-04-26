@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joverton2697.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/joverton2697.github.io/static/js/main.e5f8325c.chunk.js",
+    "main.js.map": "/joverton2697.github.io/static/js/main.e5f8325c.chunk.js.map",
+    "runtime-main.js": "/joverton2697.github.io/static/js/runtime-main.8de5195a.js",
+    "runtime-main.js.map": "/joverton2697.github.io/static/js/runtime-main.8de5195a.js.map",
+    "static/js/2.d0cf36f7.chunk.js": "/joverton2697.github.io/static/js/2.d0cf36f7.chunk.js",
+    "static/js/2.d0cf36f7.chunk.js.map": "/joverton2697.github.io/static/js/2.d0cf36f7.chunk.js.map",
+    "index.html": "/joverton2697.github.io/index.html",
+    "precache-manifest.40b9ae0822b72dcc22141e613823e612.js": "/joverton2697.github.io/precache-manifest.40b9ae0822b72dcc22141e613823e612.js",
+    "service-worker.js": "/joverton2697.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/joverton2697.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d0cf36f7.chunk.js.LICENSE.txt": "/joverton2697.github.io/static/js/2.d0cf36f7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/joverton2697.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8de5195a.js",
+    "static/js/2.d0cf36f7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e5f8325c.chunk.js"
+  ]
+}
